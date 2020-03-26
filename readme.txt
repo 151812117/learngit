@@ -5,12 +5,12 @@
    cd repo
 4.git add readme.txt
 5.git commit -m "create a new readme"
-   ·µ»Ø£ºc:\CR\repo>git commit -m "create a new readme"
+   è¿”å›ï¼šc:\CR\repo>git commit -m "create a new readme"
              [master (root-commit) f3982d9] create a new readme
              1 file changed, 1 insertion(+)
              create mode 100644 readme.txt
-6.git status:²é¿´¹¤×÷ÇøµÄ×´Ì¬£¬¸æËßÄãÓĞÎÄ¼ş±»ĞŞ¸Ä¹ı£»ÓÃgit diff¿ÉÒÔ²é¿´ĞŞ¸ÄÄÚÈİ
-7.°æ±¾»ØÍË£ºHEADÖ¸ÏòµÄ°æ±¾¾ÍÊÇµ±Ç°°æ±¾£¬HEAD~n±íÊ¾µ±Ç°°æ±¾µÄÇ°n¸ö°æ±¾£¬Òò´Ë£¬GitÔÊĞíÎÒÃÇÔÚ°æ±¾µÄÀúÊ·Ö®¼ä´©Ëó£¬Ê¹ÓÃÃüÁîgit reset --hard commit_id
-   ÓÃgit log¿ÉÒÔ²é¿´Ìá½»ÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»ØÍËµ½ÄÄ¸ö°æ±¾¡£
-   ÓÃgit reflog²é¿´ÃüÁîÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»Øµ½Î´À´µÄÄÄ¸ö°æ±¾¡£
-8.
+6.git status:æŸ¥çœ‹å·¥ä½œåŒºçš„çŠ¶æ€ï¼Œå‘Šè¯‰ä½ æœ‰æ–‡ä»¶è¢«ä¿®æ”¹è¿‡ï¼›ç”¨git diffå¯ä»¥æŸ¥çœ‹ä¿®æ”¹å†…å®¹
+7.ç‰ˆæœ¬å›é€€ï¼šHEADæŒ‡å‘çš„ç‰ˆæœ¬å°±æ˜¯å½“å‰ç‰ˆæœ¬ï¼ŒHEAD~nè¡¨ç¤ºå½“å‰ç‰ˆæœ¬çš„å‰nä¸ªç‰ˆæœ¬ï¼Œå› æ­¤ï¼ŒGitå…è®¸æˆ‘ä»¬åœ¨ç‰ˆæœ¬çš„å†å²ä¹‹é—´ç©¿æ¢­ï¼Œä½¿ç”¨å‘½ä»¤git reset --hard commit_id
+   ç”¨git logå¯ä»¥æŸ¥çœ‹æäº¤å†å²ï¼Œä»¥ä¾¿ç¡®å®šè¦å›é€€åˆ°å“ªä¸ªç‰ˆæœ¬ã€‚
+   ç”¨git reflogæŸ¥çœ‹å‘½ä»¤å†å²ï¼Œä»¥ä¾¿ç¡®å®šè¦å›åˆ°æœªæ¥çš„å“ªä¸ªç‰ˆæœ¬ã€‚
+8.å†²çª
