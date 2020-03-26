@@ -5,7 +5,7 @@
    cd repo
 4.git add readme.txt
 5.git commit -m "create a new readme"
-   ·µ»Ø£ºc:\CR\repo>git commit -m "create a new readme"
+   è¿”å›ï¼šc:\CR\repo>git commit -m "create a new readme"
              [master (root-commit) f3982d9] create a new readme
              1 file changed, 1 insertion(+)
              create mode 100644 readme.txt
