@@ -4,6 +4,6 @@ import java.utils;
 import com.abchina.ufile;
 
 class A{
-	static void main() {
+  public static void main() {
   }
 }
