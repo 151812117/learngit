@@ -5,5 +5,6 @@ import com.abchina.ufile;
 
 class A{
   public static void main() {
+    String test1 = "testss";
   }
 }
