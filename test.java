@@ -5,7 +5,7 @@ import com.abchina.ufile;
 
 class A{
   public static void main() {
-  	String test = ¡°¡±£»
+  	String test = Â¡Â°Â¡Â±Â£Â»
   	int haha = 0;
   	String a = "222";
   }
