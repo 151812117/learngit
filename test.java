@@ -7,6 +7,6 @@ class A{
   public static void main() {
   	String test = ¡°¡±£»
   	int haha = 0;
-  	String a = "haha";
+  	String a = "hahaha";
   }
 }
