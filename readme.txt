@@ -15,3 +15,4 @@
    用git reflog查看命令历史，以便确定要回到未来的哪个版本。
 8.conflict test 
 9.new add
+10.test 111
